@@ -1,11 +1,11 @@
 import React from 'react';
 
-function App(props) {
+function Test(props) {
     return (
         <div>
-            11111
+            Test
         </div>
     );
 }
 
-export default App;
+export default Test;
