@@ -76,7 +76,7 @@
     "vitest": "^0.32.2",
     "vkbeautify": "^0.99.3",
     "web-vitals": "^1.0.1",
-    "webix-jet": "^3.0.1",
+    "webix-jet": "^2.1.7",
     "xml2json-light": "1.0.6",
     "xmltojson": "1.3.5"
   },

@@ -15204,7 +15204,12 @@ webidl-conversions@^6.1.0:
   resolved "http://registry.chinairi.com:31948/repository/chinairi-npm-public/webidl-conversions/-/webidl-conversions-6.1.0.tgz#9111b4d7ea80acd40f5270d666621afa78b69514"
   integrity sha512-qBIvFLGiBpLjfwmYAaHPXsn+ho5xZnGvyGvsarywGNc8VyQJUMHJ8OBKGGrPER0okBeMDaan4mNBlgBROxuI8w==
 
-webix-jet@^3.0.0, webix-jet@^3.0.1:
+webix-jet@^2.1.7:
+  version "2.1.7"
+  resolved "http://registry.chinairi.com:31948/repository/chinairi-npm-public/webix-jet/-/webix-jet-2.1.7.tgz#c2a6eef4da8a56bd88bc1cc85ebb3febefa8ebe5"
+  integrity sha512-Hf7RaF9uUeXV0KeiQXnnQWnFwbXu7ikrTzHiA0j/4ypy9iEsQ0MyD8zH07vHjqXbghDsXrZAdo+fjLuPugUxSg==
+
+webix-jet@^3.0.0:
   version "3.0.1"
   resolved "http://registry.chinairi.com:31948/repository/chinairi-npm-public/webix-jet/-/webix-jet-3.0.1.tgz#b3b227e2978277eb38e0a07176069b6dc153abad"
   integrity sha512-dqF5+i/wow0Hz5LvNEd7Bw9CTlzQMG8B0ujG0gbrHRPDvRGGJTzbCqycEi5OuqxBRlHsgobBymbOrnBIwuOXSA==
